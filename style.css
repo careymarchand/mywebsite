@@ -45,3 +45,10 @@ p {
   font-size:25px;
   padding:30px;
 }
+
+dl {
+  color:#ffebcd;
+  font-family:'newsreader', georgia;
+  text-align:center;
+  font-size:25px;
+}
