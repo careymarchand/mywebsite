@@ -18,10 +18,17 @@ h1 {
 }
 
 h2 {
-  color:#ffb6c1;
+  color:#FFEBCD;
   font-family:'newsreader', georgia;
   text-align:center;
   font-size:30px;
+}
+
+h3 {
+  color:#ffb6c1;
+  font-family:'newsreader', georgia;
+  text-align:center;
+  font-size:25px;
 }
 
 p {
