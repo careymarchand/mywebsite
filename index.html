@@ -8,7 +8,22 @@
   href="style.css">
   <link href="<link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Newsreader:wght@200;400&family=Open+Sans&family=Roboto&display=swap" rel="stylesheet">"
+
+create two equal columns that floats next to each other
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 250px;
+}
+clear floats after the columns
+.row:after {
+  content:"";
+  display:table;
+  clear: both;
+}
 </head>
+<body>
 
 <header id="header">
 
@@ -34,11 +49,13 @@
 <div>
   <h3> Maternal Grandparents </h3>
   <h4>William "Dempsey" and Mary Charters</h4>
-
-    <div style="text-align:center"><img src="images/grandmamaryjpg.jpg" alt="Mary" width="256" height="192"/></div>
-
-    <div style="padding-top:20px;text-align:center"><img src="images/grandpa.jpg" alt="Dempsey" width="256" height="192"/></div>
-</div>
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
+    <img src="images/grandmamaryjpg.jpg" alt="Mary" width="256" height="192"/>
+      </div>
+      <div class="column" style="background-color:#ffffff;">
+        <img src="images/grandpa.jpg" alt="Dempsey" width="256" height="192"/>
+      </div>
 
 <div style="text-align:center">
     <h3> Paternal Grandparents </h3>
