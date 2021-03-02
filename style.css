@@ -68,3 +68,9 @@ a {
   float:left;
   padding:15px;
 }
+
+.right {
+  width:50%;
+  float:right;
+  padding:15px;
+}
