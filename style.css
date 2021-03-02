@@ -42,7 +42,7 @@ p {
   font-family:tahoma;
   text-align:left;
   font-size:25px;
-  padding:10px;
+  line-height:2;
 }
 
 ul {
