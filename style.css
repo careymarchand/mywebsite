@@ -60,3 +60,8 @@ a {
   text-align:center;
   font-size:30px;
 }
+
+.left {
+  width:15%;
+  float:left;
+}
