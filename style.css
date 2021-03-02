@@ -43,14 +43,15 @@ p {
   font-family:tahoma;
   text-align:center;
   font-size:25px;
-  padding:15px;
+  padding:10px;
 }
 
 dl {
   color:#ffebcd;
   font-family:'newsreader', georgia;
-  text-align:center;
   font-size:25px;
+  padding:10px;
+  text-align:left;
 }
 
 a {
