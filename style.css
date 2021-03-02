@@ -34,14 +34,14 @@ h3 {
 h4 {
   color:#ffebcd;
   font-family:'newsreader', georgia;
-  text-align:center;
+  text-align:left;
   font-size:25px;
 }
 
 p {
   color:#FFEBCD;
   font-family:tahoma;
-  text-align:center;
+  text-align:left;
   font-size:25px;
   padding:10px;
 }
