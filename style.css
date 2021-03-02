@@ -64,13 +64,13 @@ a {
 }
 
 .left {
-  width:15%;
+  width:25%;
   float:left;
   padding:15px;
 }
 
 .right {
-  width:75%;
+  width:35%;
   float:right;
   padding:15px;
 }
