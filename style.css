@@ -64,4 +64,5 @@ a {
 .left {
   width:15%;
   float:left;
+  padding:15px;
 }
