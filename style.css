@@ -44,7 +44,7 @@ p {
   margin: 15px 15px 15px 15px;
 }
 
-ul {
+.ul {
   color:#000000;
   font-family:tahoma;
   font-size:20px;
@@ -97,5 +97,5 @@ nav ul li a {
 nav ul li a:hover {
   box-shadow:#ffffff;
   background:#000000;
-  color:#000000;
+  color:rgba(0, 35, 122, 0.7);
 }
