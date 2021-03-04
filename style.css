@@ -14,10 +14,13 @@ body {
   padding: 15px;
 }
 
-href {
-  color:#000000;
-  font-size: 25px;
-  text-align:right;
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+div {
+  margin: 0 auto;
 }
 
 h1 {
