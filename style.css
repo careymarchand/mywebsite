@@ -6,7 +6,7 @@ body {
 .box1 {
   height:350px;
   background-image: url(images/mountains.jpg);
-  background-size:cover;
+  background-size:100%;
   background-position:center;
 }
 
