@@ -3,7 +3,7 @@ body {
     margin:15px 15px 15px 15px;
 }
 
-.banner {
+.box1 {
   height:350px;
   background-image: url(images/mountains.jpg);
   background-size:cover;
