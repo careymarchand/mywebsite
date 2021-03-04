@@ -91,7 +91,7 @@ nav ul li a {
   text-transform:uppercase;
   color:#ffb6c1;
   font-size: 20px;
-  text-decoration: none;
+  text-decoration: underline;
   display: block;
 }
 nav ul li a:hover {
