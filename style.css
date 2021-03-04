@@ -79,7 +79,8 @@ nav {
 nav ul li {
   text-align: center;
   padding: 0px 0px 0px 30px;
-  background-color:#000000;
+  background-color:#000000
+  border: 4px solid #ffb6c1;
 }
 
 nav ul li {
