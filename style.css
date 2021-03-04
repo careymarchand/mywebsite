@@ -10,6 +10,14 @@ body {
   margin-top: 0px;
 }
 
+.box2 {
+  height:200px;
+  background-image: url(images/mountains.jpg);
+  background-size:100%;
+  background-position:center;
+  margin-top: 0px;
+}
+
 .box {
   padding: 15px;
 }
