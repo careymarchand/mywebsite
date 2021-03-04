@@ -1,7 +1,6 @@
 body {
     background-color:#ffffff;
-    margin:15px 15px 15px 15px
-    font-family:tahoma;
+    margin:15px 15px 15px 15px;
 
 }
 
@@ -39,6 +38,7 @@ h3 {
 
 p {
   color:#000000;
+  font-family:tahoma;
   text-align:left;
   font-size:20px;
   line-height:2;
@@ -47,6 +47,7 @@ p {
 
 .ul {
   color:#000000;
+  font-family:tahoma;
   font-size:20px;
   text-align:left;
   line-height:2;
@@ -87,6 +88,7 @@ nav ul li {
 }
 nav ul li a {
   padding: 28px;
+  font-family:tahoma;
   text-transform:uppercase;
   color:#ffb6c1;
   font-size: 20px;
