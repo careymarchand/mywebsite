@@ -8,7 +8,7 @@ body {
   padding: 10px;
 }
 
-div a {
+.link {
   color:#000000;
   font-family:Tahoma
   font-size: 25px;
