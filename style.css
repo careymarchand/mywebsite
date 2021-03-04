@@ -4,10 +4,18 @@ body {
     background-image:url(images/light-veneer.png);
 }
 
+.banner {
+  height:350px;
+  background-image: url(images/mountains.jpg);
+  background-size:cover;
+  background-position:center;
+}
+
 .box {
   padding: 15px;
   margin:15px 15px 15px 15px;
   background-image:url(images/prism.png);
+  background-size:100%;
 }
 
 href {
