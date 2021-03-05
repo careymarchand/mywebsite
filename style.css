@@ -42,7 +42,7 @@ h1 {
   font-family:'newsreader', georgia;
   text-align:center;
   text-shadow: 2px 2px 2px #ffffff;
-  padding-top:75px;
+  /* padding-top:75px; */
   font-size:80px;
 }
 
@@ -107,7 +107,7 @@ html {
 
 nav {
   max-width: 100%;
-  /* margin: 5px; */
+  margin: 5px;
   padding: 5px;
   background-color:#000000;
 }
