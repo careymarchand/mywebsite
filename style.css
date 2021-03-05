@@ -18,8 +18,14 @@ body {
   margin-top: 0px;
 }
 
-.box {
+.boxleft {
   padding: 15px;
+  float:left;
+}
+
+.boxright {
+  padding:15px;
+  float:right;
 }
 
 .container {
