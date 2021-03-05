@@ -1,10 +1,3 @@
-.box1 {
-  height:400px;
-  background-image: url(images/mountains.jpg);
-  background-size:100%;
-  background-position:center;
-}
-
 .box2 {
   height:300px;
   background-image: url(images/mountains.jpg);
@@ -39,8 +32,12 @@ h1 {
   text-shadow: 2px 2px 2px #ffffff;
   padding-top:75px;
   font-size:80px;
-  margin: 0, 0, 0, 0;
+  height:400px;
+  background-image: url(images/mountains.jpg);
+  background-size:100%;
+  background-position:center;
 }
+
 
 h3 {
   color:#ffb6c1;
