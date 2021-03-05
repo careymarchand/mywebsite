@@ -6,22 +6,8 @@
   margin-top: 0px;
 }
 
-.boxleft {
-  padding: 15px;
-  float:left;
-}
-
-.boxright {
-  padding:15px;
-  float:right;
-}
-
 .container {
   max-width: 75%;
-  margin: 0 auto;
-}
-
-div {
   margin: 0 auto;
 }
 
@@ -52,7 +38,7 @@ h4 {
   color:#ffb6c1;
   font-family:'newsreader', georgia;
   text-align:center;
-  font-size:30px;
+  font-size:45px;
   padding-top:50px;
   padding-bottom:5px;
 }
