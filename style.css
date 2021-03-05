@@ -62,13 +62,13 @@ p {
 .left {
   width:25%;
   float:left;
-  padding:10px;
+  padding:20px;
 }
 
 .right {
   width:25%;
   float:right;
-  padding:15px;
+  padding:20px;
 }
 
 html {
